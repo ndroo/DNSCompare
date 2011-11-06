@@ -1,0 +1,6 @@
+This tool currently contains two arrays:
+1. For name servers
+2. For host names
+
+When run it will echo out the result, OK if all records for that match across all name servers, WARN if they dont match (Then it will also echo out the actual results)
+
