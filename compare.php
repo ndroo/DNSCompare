@@ -11,7 +11,7 @@ array_push($nameservers,"ns1.newnameserver.com");
 //hosts to compare
 $hosts = array(
 		"website.com",
-		"www..website.com",
+		"www.website.com",
 		"mx.example.com"
 		);
 
