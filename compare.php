@@ -3,7 +3,7 @@
 //name servers to compare against
 $nameservers = array();
 array_push($nameservers,"ns2.oldnameserver.com");
-array_push($nameservers,"ns1.oldnameserver.com);
+array_push($nameservers,"ns1.oldnameserver.com");
 array_push($nameservers,"ns2.newnameserver.com");
 array_push($nameservers,"ns1.newnameserver.com");
 
